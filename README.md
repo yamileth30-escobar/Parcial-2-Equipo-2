@@ -8,7 +8,7 @@ María Guadalupe Canjura Díaz,
 Mallerli Yamileth Ventura Escobar,
 Milagro Stefany Tejada Jiménez,
 Noe Steve Mejia Hernandez,
-Jose Angel Gutierrez Cortez
+Jose Angel Gutierrez Cortez.
 
 --Rutas Implementadas
 
