@@ -2,12 +2,12 @@
 
 --Integrantes
 
-David Alexander Aguilar Barrientos
-Gabriela de los Angeles Chacón Guevara
-María Guadalupe Canjura Díaz
-Mallerli Yamileth Ventura Escobar
-Milagro Stefany Tejada Jiménez
-Noe Steve Mejia Hernandez
+David Alexander Aguilar Barrientos,
+Gabriela de los Angeles Chacón Guevara,
+María Guadalupe Canjura Díaz,
+Mallerli Yamileth Ventura Escobar,
+Milagro Stefany Tejada Jiménez,
+Noe Steve Mejia Hernandez,
 Jose Angel Gutierrez Cortez
 
 --Rutas Implementadas
