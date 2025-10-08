@@ -12,10 +12,13 @@ Jose Angel Gutierrez Cortez.
 
 --Rutas Implementadas
 
-/Productos/ ListView de productos.
-/Productos/nuevo/ CreateView
-/Productos/editar/<id>/ UpdateView
-/Productos/eliminar/<id>/ DeleteView
+# producto
+path('', ProductoListView.as_view(), name="producto-list"),
+# nuevo producto
+path('nuevo', ProductoCreateView.as_view(), name="producto-create"),
+
+http://127.0.0.1:8000/productos/
+http://127.0.0.1:8000/productos/nuevo
 
 --Descripción 
 
